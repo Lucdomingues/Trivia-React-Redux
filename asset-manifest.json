@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trivia-React-Redux.github.io/static/css/main.6fea7d82.css",
+    "main.js": "/Trivia-React-Redux.github.io/static/js/main.fe6490cd.js",
+    "index.html": "/Trivia-React-Redux.github.io/index.html",
+    "main.6fea7d82.css.map": "/Trivia-React-Redux.github.io/static/css/main.6fea7d82.css.map",
+    "main.fe6490cd.js.map": "/Trivia-React-Redux.github.io/static/js/main.fe6490cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fea7d82.css",
+    "static/js/main.fe6490cd.js"
+  ]
+}
